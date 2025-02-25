@@ -138,9 +138,7 @@ Menandakan akhir dari metode main dan kelas PencarianArray.
 ```
 }
 ```
-
-
-``` PENJELASAN KODE LATIHAN 3 ```
+```PENJELASAN KODE LATIHAN 3 ```
 ```
 public class StatistikArray {
 ```
@@ -207,7 +205,6 @@ Mencetak rata-rata nilai yang dihitung ke konsol.
 ```
 Menandakan akhir dari metode main dan kelas StatistikArray.
 ```
-
 ``` PENJELASAN KODE LATIHAN 4 ```
 ```
 
@@ -291,7 +288,6 @@ Mencetak baris baru setelah mencetak semua elemen
     }
 }
 ```
-
 ``` PENJELASAN STUDY KASUS 1 ```
 ```
 public class SistemNilai {
@@ -405,7 +401,6 @@ Menandakan akhir dari loop for (mata pelajaran).
 Menandakan akhir dari metode main dan kelas SistemNilai.
 }
 ```
-
 ``` PENJELASAN STUDY KASUS 2 ```
 ```
 public class TicTacToe {
