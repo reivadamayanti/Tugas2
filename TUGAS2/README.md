@@ -1,4 +1,5 @@
 ``` PENJELASAN KODE LATIHAN 1```
+```
 public class LatihanArray1 {
 ```
 Mendeklarasikan sebuah kelas publik bernama LatihanArray1. Kelas ini adalah tempat di mana program akan dieksekusi.
@@ -61,6 +62,7 @@ Mencetak jumlah total dari semua elemen dalam array. \n untuk mencetak baris bar
 }
 
 ``` PENJELASAN KODE LATIHAN 2```
+```
 public class PencarianArray {
 ```
 Mendeklarasikan sebuah kelas publik bernama PencarianArray
@@ -139,6 +141,7 @@ Menandakan akhir dari metode main dan kelas PencarianArray.
 
 
 ``` PENJELASAN KODE LATIHAN 3 ```
+```
 public class StatistikArray {
 ```
 Mendeklarasikan sebuah kelas publik bernama StatistikArray.
@@ -206,6 +209,7 @@ Menandakan akhir dari metode main dan kelas StatistikArray.
 ```
 
 ``` PENJELASAN KODE LATIHAN 4 ```
+```
 
 public class OperasiMatriks {
 ```
@@ -289,6 +293,7 @@ Mencetak baris baru setelah mencetak semua elemen
 ```
 
 ``` PENJELASAN STUDY KASUS 1 ```
+```
 public class SistemNilai {
 ```
 Mendeklarasikan sebuah kelas publik bernama SistemNilai. 
@@ -402,6 +407,7 @@ Menandakan akhir dari metode main dan kelas SistemNilai.
 ```
 
 ``` PENJELASAN STUDY KASUS 2 ```
+```
 public class TicTacToe {
 ```
 Mendeklarasikan sebuah kelas publik bernama TicTacToe.
