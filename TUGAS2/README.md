@@ -60,7 +60,7 @@ Mencetak jumlah total dari semua elemen dalam array. \n untuk mencetak baris bar
 ```
     }
 }
-
+```
 ``` PENJELASAN KODE LATIHAN 2```
 ```
 public class PencarianArray {
